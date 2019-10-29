@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chatchawit022</string>
+
+    <string name="btn_ayutthaya">อยุธยา</string>
+    <string name="btn_buri">ชลบุรี</string>
+    <string name="btn_nan">น่าน</string>
+    <string name="btn_Thammarat">นครศรีธรรมราช</string>
+
+    <string name="content_ayutthaya">ราชธานีเก่า อู่ข้าวอู่น้ำ เลิศล้ำกานท์กวี คนดีศรีอยุธยา เลอคุณค่ามรดกโลก</string>
+    <string name="content_buri">ทะเลงาม ข้าวหลามอร่อย อ้อยหวาน จักสานดี ประเพณีวิ่งควาย</string>
+    <string name="content_nan">แข่งเรือลือเลื่อง เมืองงาช้างดำ จิตรกรรมวัดภูมินทร์ แดนดินส้มสีทอง เรืองรองพระธาตุแช่แห้ง</string>
+    <string name="content_Thammarat">เราชาวนครฯ อยู่เมืองพระ มั่นอยู่ในสัจจะศีลธรรม กอปรกรรมดี มีมานะพากเพียร ไม่เบียดเบียนทำอันตรายผู้ใด</string>
+</resources>
